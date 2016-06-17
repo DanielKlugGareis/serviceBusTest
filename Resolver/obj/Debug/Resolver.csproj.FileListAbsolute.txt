@@ -1,0 +1,6 @@
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\bin\Debug\Resolver.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\bin\Debug\Resolver.pdb
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\obj\Debug\Resolver.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\Resolver\obj\Debug\Resolver.pdb

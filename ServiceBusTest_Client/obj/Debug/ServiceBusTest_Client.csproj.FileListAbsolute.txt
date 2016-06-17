@@ -1,0 +1,10 @@
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\ServiceBusTest_Client.exe.config
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\ServiceBusTest_Client.exe
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\ServiceBusTest_Client.pdb
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\Resolver.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\Resolver.pdb
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\obj\Debug\ServiceBusTest_Client.csprojResolveAssemblyReference.cache
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\obj\Debug\ServiceBusTest_Client.exe
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest_Client\obj\Debug\ServiceBusTest_Client.pdb

@@ -1,0 +1,10 @@
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\ServiceBusTest.exe.config
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\ServiceBusTest.exe
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\ServiceBusTest.pdb
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\Resolver.dll
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\Resolver.pdb
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\obj\Debug\ServiceBusTest_Server.csprojResolveAssemblyReference.cache
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\obj\Debug\ServiceBusTest.exe
+C:\Users\ngaraza\Documents\Visual Studio 2015\Projects\ServiceBusTest\ServiceBusTest\obj\Debug\ServiceBusTest.pdb
